@@ -11,7 +11,7 @@ The data is obtained from the [NBP official website](https://www.nbp.pl).
 - Formulas and basic data analysis
 
 ## Usage
-Open the `kursy-walut.xlsx` file in Excel. The workbook includes raw data and summary sheets with calculated exchange rates.
+Open the `exchange rates.xlsx` file in Excel. The workbook includes raw data and summary sheets with calculated exchange rates.
 
 ## License
 Data from NBP is public domain.
